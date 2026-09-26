@@ -1,0 +1,11 @@
+{
+  "name": "3dgs-tile-webgpu-test",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Integration scenarios for the 3dgs-tile-webgpu streaming backend",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "3dgs-tile-webgpu": "git+https://github.com/vinneyto/3dgs_tile_webgpu.git#dddf8443dcae1d5166d91c1e3701700d6edcea41"
+  }
+}
